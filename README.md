@@ -6,5 +6,5 @@ Espero lograr ser capaz de armar mis arquitecturas para distintas problematicas 
 
 **Nombre del docente:** Lizbeth Jaico Quispe
 
-![Captura Paso 1](/home/crhistian/~/Pictures/Screenshots/2026-09-18-152247_hyprshot.png)
-![Captura Paso 2](/home/crhistian/Downloads/cap2.png)
+![Captura Paso 1](docs/2026-09-18-152247_hyprshot.png)
+![Captura Paso 2](docs/cap2.png)
